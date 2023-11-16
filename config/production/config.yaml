@@ -21,6 +21,3 @@ deployment:
   targets:
     - name: "production"
       URL: "s3://lcdc-site?endpoint=garage.deuxfleurs.fr&s3ForcePathStyle=true&region=garage"
- 42 changes: 42 additions & 0 deletions42  
-content/fr/posts/_index.html
-@@ -0,0 +1,42 @@
