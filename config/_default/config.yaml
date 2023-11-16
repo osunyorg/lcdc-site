@@ -10,3 +10,12 @@ params:
   logo:
     header: /assets/images/logo.jpeg
     footer: /assets/images/logo.jpeg
+  events:
+    index:
+      truncate_description: 0
+  pages:
+    index:
+      truncate_description: 0
+  posts:
+    index:
+      truncate_description: 0
