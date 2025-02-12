@@ -2,6 +2,11 @@
 
 baseURL: https://lcdc-site.web.deuxfleurs.fr
 
+## OSUNY
+osuny:
+  website:
+    id: e6500096-e7fa-4baf-b8e1-9ea280e45bc0
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
