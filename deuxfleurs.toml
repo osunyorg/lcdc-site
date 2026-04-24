@@ -15,10 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/agenda/2023-12-05-forum-des-plateformes-cooperatives-2023/"
+from = "/agenda/2023-12-05-forum-des-plateformes-cooperatives-2023/index.html"
 to = "/agenda/2023/forum-des-plateformes-cooperatives-2023/"
 
 [[redirects]]
-from = "/actualites/2023-11-16-une-approche-par-les-communs-avec-les-collectivites-locales-pour-une-transition-ecologique-et-solidaire/"
+from = "/actualites/2023-11-16-une-approche-par-les-communs-avec-les-collectivites-locales-pour-une-transition-ecologique-et-solidaire/index.html"
 to = "/actualites/2023-11-16-une-approche-par-les-communs-avec-les-collectivites-locales-pour-une-transition-ecologique-et-solida/"
 
