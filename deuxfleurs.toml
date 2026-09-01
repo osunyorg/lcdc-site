@@ -15,6 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/csrd-et-care-nov-2023-lacoopdescommunspdf/"
+
+[[redirects]]
 from = "/agenda/2023-12-05-forum-des-plateformes-cooperatives-2023/index.html"
 to = "/agenda/2023/forum-des-plateformes-cooperatives-2023/"
 
